@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 175" style="enable-background:new 0 0 300 175;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#CCBE2C;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#1D1716;}
+</style>
+<rect id="background" class="st0" width="300" height="175"/>
+<polygon id="cup" class="st1" points="123.1,93.7 184.5,93.9 177.1,175 131.4,175 "/>
+<g id="straw">
+	<path class="st2" d="M125,19.2c1.8,7.9,3.6,15.8,5.4,23.7l4.5-5.3c-1.6-6.8-3.2-13.6-4.8-20.4L125,19.2z"/>
+	<path class="st2" d="M131.1,46.3l1.2,5.2l4.7-4.3c-0.3-1.9-0.6-3.8-0.9-5.7L131.1,46.3z"/>
+	<path class="st2" d="M133,54c0.3,1.8,0.6,3.6,0.9,5.4l4.4-4c-0.3-1.8-0.6-3.7-0.8-5.5L133,54z"/>
+	<path class="st2" d="M134.8,63.5c2.3,10,4.7,20,7,30.1l4.3-6c-2.4-9.7-4.8-19.4-7.2-29.1L134.8,63.5z"/>
+	<path class="st2" d="M142.9,95.4c0.2,2.3,0.4,4.6,0.6,7l4.7-4.6l-1-5.9L142.9,95.4z"/>
+	<path class="st2" d="M144.2,105.6c0.3,1.7,0.6,3.5,0.9,5.2l4.8-4.8l-1-5.3C147.3,102.3,145.8,103.9,144.2,105.6z"/>
+	<path class="st2" d="M145.1,114.6c3.6,17.5,7.1,35,10.6,52.5l7.3-1.4c-4-18.6-8-37.1-12.1-55.7L145.1,114.6z"/>
+</g>
+</svg>

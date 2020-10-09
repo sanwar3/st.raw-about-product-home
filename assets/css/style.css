@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100;200&family=Oxygen:wght@300&display=swap');
+
+/* font-family: 'Catamaran', sans-serif; */
+/* #ccbe2d */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  margin: 0;
+  background-image: url('/assets/img/logo-icon-01.svg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 40%;
+  /* display: grid;
+  grid-template-rows: 1fr 1fr; */
+}
+
+.top-area {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+/* image to image nav */
+.bottom-area {
+  width: 60%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+
+  margin-bottom: px;
+
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+
+.bottom-nav {
+  justify-self: center;
+  word-spacing: 3px;
+
+  grid-column-start: 1 / span 2;
+  grid-row-start: 3;
+}
+
+.bottom-nav li {
+  display: inline-block;
+  justify-self: center;
+}
+
+.bottom-nav a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-family: 'Catamaran', sans-serif;
+  font-size: 17px;
+}
+
+.bottom-nav li:hover {
+  text-decoration: underline;
+  color: white;
+}
+
+.nav-item {
+  padding: 0.02em 0.25em;
+  color: #000;
+  text-decoration: none;
+}
+
+.active {
+  background-color: rgba(204, 191, 45, 0.781);
+  color: white;
+}
+
+.footer-area {
+  width: 60%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+
+  margin-bottom: 130px;
+  margin-left: -25px;
+}
+
+/* text & icons on page */
+.text-logo {
+  grid-column-start: 1;
+}
+
+.text-discover {
+  grid-column-start: 2;
+  margin-top: -20px;
+  margin-left: 184px;
+}
+
+.text-st-raw {
+  display: block;
+  margin-left: 230px;
+  position: fixed;
+  margin-top: 80px;
+}
+
+.st-raw {
+  color: rgba(0, 0, 0, 0.267);
+  font-family: 'Catamaran', sans-serif;
+  font-size: 15px;
+}
+
+.text-scroll-icon {
+  position: fixed;
+  display: block;
+  margin-left: 619px;
+  margin-top: 330px;
+}
+
+.text-contact {
+  position: fixed;
+  display: block;
+  margin-left: 1010px;
+  margin-top: 320px;
+}
+
+.contact {
+  color: rgba(0, 0, 0, 0.267);
+  font-family: 'Catamaran', sans-serif;
+  font-size: 20px;
+}
+
+.text-sign-in {
+  grid-column-start: 2;
+  grid-row-start: 1;
+  margin-top: 35px;
+  margin-left: 190px;
+  position: fixed;
+}
+
+.sign-in {
+  color: black;
+  font-family: 'Catamaran', sans-serif;
+  font-size: 20px;
+}
+
+/* Product Featured */
+
+.product-featured {
+  padding-top: 90px;
+  padding-bottom: 15px;
+}
+
+.center-image-01 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  margin-top: 70px;
+}
+.center-image-02 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  margin-top: 70px;
+}
+
+.center-image-03 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  margin-top: 70px;
+}
+
+.center-image-04 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  margin-top: 70px;
+}
+
+.blank {
+  color: white;
+  background-color: white;
+  padding: 1em 1em;
+}
